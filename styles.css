@@ -1,0 +1,76 @@
+#hd{
+    text-align: center;
+    color: rgb(231, 247, 17);
+    background-color: black;
+}
+
+.ls{
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.ss{
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(248, 243, 243, 0.993);
+    color:rgb(163, 17, 17);
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
+.sub{
+    color: white;
+    background-color: rgb(7, 97, 104);
+    font-family: 'Times New Roman', Times, serif
+    font-size: 18px;
+    font-weight: bold;
+}
+.dis{
+    color:green;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#lists{
+    color:rgb(2, 36, 44);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#step{
+    color: rgb(197, 7, 32);
+    font-weight: bold;
+}
+#lst{
+    color: rgb(44, 5, 59);
+    font-weight: bold;
+}
+
+#olst{
+    color:black;
+    font-weight: bold;
+}
+.new{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color:black;
+}
+
+.ref{
+    color: blue;
+    font-weight: bold;
+    font-size: 18px;
+}
+#tcid{
+    color:rgb(107, 47, 13);
+    font-weight: bold;
+}
+
+.tcol{
+    color: rgb(231, 9, 9);
+    font-weight: bold;
+}
