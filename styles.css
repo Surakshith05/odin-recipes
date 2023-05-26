@@ -1,13 +1,24 @@
 #hd{
+    display: block;
+    margin: auto;
+    padding: 8px 10px;
     text-align: center;
-    color: rgb(231, 247, 17);
-    background-color: black;
+    text-decoration-line: underline;
+    color:rgb(211, 175, 15);
+    background-color: rgb(49, 43, 43);
 }
 
 .ls{
-    color: red;
+    background-color: whitesmoke;
     font-weight: bold;
     font-size: 22px;
+}
+
+.one{
+    background-color: rgb(78, 212, 51);
+    padding: 1px 1px;
+    margin: 5px 5px;
+    border: 1px;
 }
 
 .ss{
